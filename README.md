@@ -1,2 +1,3 @@
 # PSIT---Demo
-this is my learning phase of repository
+This is my learning phase of the repository
+Author - Suryansh Gupta
